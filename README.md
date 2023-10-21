@@ -1,1 +1,3 @@
-# predicting_the_druggability_of_a_chemical_compound
+# Predicting the druggability of a chemical compound
+
+Atomic Hack Hackaton "Chemoinformatics"
